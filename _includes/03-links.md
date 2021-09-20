@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![the-readme-project](https://github.blog/wp-content/uploads/2021/09/1200x630-ReadMe-Anni-@2x.png)
