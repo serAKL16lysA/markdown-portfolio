@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1.work with github
+  1. note
+  2. content of class
+ 
+3.book
+* linux
+* ...
+*
